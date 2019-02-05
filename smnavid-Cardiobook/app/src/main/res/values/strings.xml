@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardioBook</string>
+    <string name="title_activity_measurement_item">measurement_item</string>
+</resources>
